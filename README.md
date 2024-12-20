@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 ```markdown
+=======
+>>>>>>> 3d41b733527ab899efc01885be25f582a4abae61
 # **Site E-commerce de Chaussures de Football**
 
 Ce projet est un site e-commerce développé avec **WordPress** et **WooCommerce**, permettant la vente en ligne de chaussures de football. Il est conçu pour offrir une expérience utilisateur intuitive, une gestion avancée des produits (variations de taille, couleur, type de terrain) et des fonctionnalités de paiement sécurisé.
@@ -31,6 +34,7 @@ Ce projet est un site e-commerce développé avec **WordPress** et **WooCommerce
 Clonez le projet depuis GitHub :
 ```bash
 git clone https://github.com/oussamaOugouzale/site-ecommerce-footbal.git
+<<<<<<< HEAD
 ```
 Accédez au répertoire du projet :
 ```bash
@@ -105,3 +109,5 @@ Si vous avez des questions, contactez-nous à :
 ```
 
 ---
+=======
+>>>>>>> 3d41b733527ab899efc01885be25f582a4abae61
