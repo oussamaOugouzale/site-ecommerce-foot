@@ -1,0 +1,38 @@
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.2 MB/512 MB - oussama > Start upgrade from 0.0.0
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > Backing up options of 0.0.0
+20-12-2024 11:08:04 - INFO  - 8.6.4 - 143.0 MB/512 MB - oussama > End
