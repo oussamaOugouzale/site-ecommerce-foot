@@ -52,11 +52,7 @@ cd site-ecommerce-footbal
    - Sélectionnez la base de données `ecommerce`.
    - Cliquez sur l’onglet **Importer** et sélectionnez le fichier `ecommerce.sql`.
 
-#### **4. Extraire le dossier des plugins**
-1. Naviguez dans le répertoire `wp-content/`.
-2. Extrayez le fichier compressé `plugins.zip` dans le dossier `wp-content/plugins/`.
-
-#### **5. Configurer le fichier wp-config.php**
+#### **4. Configurer le fichier wp-config.php**
 1. Ouvrez le fichier `wp-config.php` à la racine du projet.
 2. Mettez à jour les paramètres de connexion à la base de données :
    ```php
@@ -68,11 +64,11 @@ cd site-ecommerce-footbal
    - **DB_USER** : Utilisateur de MySQL (par défaut : `root`).
    - **DB_PASSWORD** : Mot de passe de MySQL (vide par défaut sur XAMPP).
 
-#### **6. Démarrer le serveur**
+#### **5. Démarrer le serveur**
 - Lancez Apache et MySQL depuis le panneau de contrôle XAMPP/WAMP.
 - Accédez au site via `http://localhost/ecommerce`.
 
-#### **7. Accéder à l'administration**
+#### **6. Accéder à l'administration**
 - URL d'accès : `http://localhost/ecommerce/wp-admin`
 - Identifiants administrateur :
   - **Nom d'utilisateur :** `oussagou49@gmail.com`
@@ -84,7 +80,7 @@ cd site-ecommerce-footbal
 ## **Structure du projet**
 - **`wp-content/plugins/`** : Contient les plugins nécessaires (compressés dans `plugins.zip`).
 - **`wp-content/themes/`** : Contient le thème personnalisé utilisé pour le projet.
-- **`Database/database.sql`** : Fichier de base de données pour initialiser le projet.
+- **`Database/ecommerce.sql`** : Fichier de base de données pour initialiser le projet.
 - **`wp-config.php`** : Fichier de configuration de WordPress.
 
 ---
